@@ -1,4 +1,5 @@
-"47 The American Sign Language and English Secondary School","223 EAST 23 STREET MANHATTAN, NY 10010",Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country,Source
+"School","Address"
+"47 The American Sign Language and English Secondary School","223 EAST 23 STREET MANHATTAN, NY 10010",40.738373,-73.981628,1,rooftop,223,"E 23rd St","New York",NY,"New York County",10010,US,"City of New York"
 "ACORN Community High School","561 GRAND AVENUE BROOKLYN, NY 11238",40.678651,-73.961911,1,rooftop,561,"Grand Ave",Brooklyn,NY,"Kings County",11238,US,"City of New York"
 "Andries Hudde","2500 NOSTRAND AVENUE BROOKLYN, NY 11210",40.623753,-73.946487,1,rooftop,2500,"Nostrand Ave",Brooklyn,NY,"Kings County",11210,US,"City of New York"
 "Aspirations Diploma Plus High School","402 EASTERN PARKWAY BROOKLYN, NY 11225",40.669717,-73.955112,1,rooftop,402,"Eastern Pkwy",Brooklyn,NY,"Kings County",11225,US,"City of New York"
