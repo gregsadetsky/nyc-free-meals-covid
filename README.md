@@ -2,7 +2,7 @@
 
 **The New York City Department of Education is committed to making three free meals available daily for any New Yorker**.
 
-This is a cached version of NYC's Dept of Education "Meal Location Search". As that site was crumbling under traffic and did not have any map, I've decided to publish its data here and redo the site.
+This is a cached / high availability version of NYC's Dept of Education "Meal Location Search". As that site was crumbling under traffic and did not have any map, I've decided to publish its data here and redo the site.
 
 Contact: Greg Sadetsky - gs@gregsadetsky.com
 
