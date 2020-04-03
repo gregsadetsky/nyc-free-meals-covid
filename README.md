@@ -1,4 +1,4 @@
-# NYC Free Meals during COVID - [See the map](https://www.google.com/maps/d/viewer?mid=13Vr3jfAf9uOPm7b03paX_lyLjBi9Ue-4)
+# NYC Free Meals during COVID - [See the site](https://nycfreemeals.com/)
 
 **The New York City Department of Education is committed to making three free meals available daily for any New Yorker**.
 
