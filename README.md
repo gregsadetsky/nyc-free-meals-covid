@@ -1,12 +1,16 @@
-# nyc-free-meals-covid
+# NYC Free Meals during COVID
 
-This is a cached version of NYC's Dept of Education "Meal Location Search".
+**The New York City Department of Education is committed to making three free meals available daily for any New Yorker**.
 
-*Work in Progress*
+This is a cached version of NYC's Dept of Education "Meal Location Search". As that site was crumbling under traffic, I've decided to publish its data here and redo the site.
+
+# [See the map](https://www.google.com/maps/d/viewer?mid=13Vr3jfAf9uOPm7b03paX_lyLjBi9Ue-4)
+
+Contact: Greg Sadetsky - gs@gregsadetsky.com
 
 ---
 
-The New York City Department of Education is committed to making three free meals available daily for any New Yorker. Any New Yorker who wants one can get three free meals a day at more than 400 Meal Hubs across the city.
+**The New York City Department of Education is committed to making three free meals available daily for any New Yorker**. Any New Yorker who wants one can get three free meals a day at more than 400 Meal Hubs across the city.
 
 - Meals can be picked up at all Meal Hubs 7:30 am to 1:30 pm, Monday through Friday
 - Meals Hubs will operate for children and families from 7:30 am to 11:30 am, and for adults from 11:30 am to 1:30 pm
